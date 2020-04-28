@@ -1,0 +1,2 @@
+request
+-DCATKIN_DEVEL_PREFIX=/home/ayush/cki_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ayush/cki_ws/install -G Unix Makefiles

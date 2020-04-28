@@ -1,0 +1,14 @@
+
+Guten Tag Ayush Kumar Chaudhary, 
+
+es besteht weiterhin Interesse an Ihrer Bewerbung für die Position Praktikum - Automatisierte und autonome Systeme, 221.
+
+Noch können wir Ihnen hierzu aber keine abschließende Antwort geben, da sich Ihre Unterlagen noch immer in der Fachabteilung zur Prüfung befinden. 
+
+Natürlich können Sie sich jederzeit bei uns über den Stand Ihrer Bewerbung informieren.
+
+Vielen Dank für Ihr Verständnis.
+
+source "./devel/setup.bash"
+
+exec "$@"

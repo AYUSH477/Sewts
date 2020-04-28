@@ -1,0 +1,8 @@
+prefix=/home/ayush/cki_ws/devel
+
+Name: request
+Description: Description of request
+Version: 0.0.0
+Cflags: -I/home/ayush/cki_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
