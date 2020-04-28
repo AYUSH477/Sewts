@@ -1,6 +1,6 @@
 # Sewts
 
-## Steps to run the docker file:
+## Steps to run the docker image:
 
 ### Pulling from Docker hub
 
